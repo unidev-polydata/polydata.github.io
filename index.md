@@ -1,12 +1,18 @@
 ## PolyData
 
-PolyData - document storage for web and mobile application
+Document database on top of different object storages
 
-### polydata-storage
+## Papers
 
-### polydata-insights
+https://people.csail.mit.edu/kraska/pub/sigmod08-s3.pdf
 
-### polydata-queries
+## Modules
+
+#### polydata-storage
+
+#### polydata-insights
+
+#### polydata-queries
 
 ### Support or Contact
 
